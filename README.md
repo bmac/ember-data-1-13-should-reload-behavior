@@ -18,11 +18,11 @@ This mixin can be used with Ember Data v1.13 to silence the deprecations warning
 
 ## Installing
 
-* ember-cli >= 0.2.3 `ember install ember-moment`
+* ember-cli >= 0.2.3 `ember install ember-data-1-13-should-reload-behavior`
 
 ## Upgrading
 
-It's advisable to run `ember g ember-moment` between upgrades as dependencies may have been added, removed, or upgraded between releases.  Please try this, along with clearing `node_modules` and `bower_components` before reporting issues after upgrading.
+Please clear `node_modules` and `bower_components` before reporting issues after upgrading.
 
 ## Usage
 
