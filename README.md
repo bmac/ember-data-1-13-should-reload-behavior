@@ -1,6 +1,6 @@
 # Ember-data-1-13-should-reload-behavior
 
-This mixin can be used with Ember Data v1.13 to silence the deprecations warnings from `shouldReloadAll` and `shouldBackbroundReloadRecord`. It can also be used with Ember Data v2.x to opt into the old v1.13 behaviors around loading records from the cache.
+This mixin can be used with Ember Data v1.13 to silence the deprecations warnings from `shouldReloadAll` and `shouldBackbroundReloadRecord`. It can also be used with Ember Data v2.x to opt into the old v1.13 behaviors around loading records from the cache. If you would like to use the v2.x behavior in Ember Data v1.13 please check out the [ember-data-2-x-should-reload-behavior addon](https://github.com/bmac/ember-data-2-x-should-reload-behavior/).
 
 | Action | v1.13 | v2.x | ember-data-1-13-should-reload-behavior |
 | ------ | ----- | ---- | -------------------------------------- |
